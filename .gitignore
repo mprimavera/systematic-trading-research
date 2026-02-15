@@ -209,3 +209,6 @@ __marimo__/
 
 data/raw/*
 !data/raw/.gitkeep
+
+# Downloaded course exercise files (excluded to respect license terms)
+/course_work/
